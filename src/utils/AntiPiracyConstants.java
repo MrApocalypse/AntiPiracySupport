@@ -35,6 +35,7 @@ public class AntiPiracyConstants {
         "com.repodroid.app",                                   // Get Apk Market
         "org.creeplays.hack",                                  // CreeHack
         "com.baseappfull.fwd",                                 // Game Hacker
-	 "org.mobilism.android"				       // Mobilism Market
+	"org.mobilism.android",				       // Mobilism Market
+	"com.dv.marketmod.installer"			       // Cracked Google Play installer
     };
 }
